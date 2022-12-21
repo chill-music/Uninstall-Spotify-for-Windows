@@ -1,0 +1,1 @@
+# Uninstall-Spotify-for-Windows
